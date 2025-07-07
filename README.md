@@ -3,6 +3,9 @@
 Realizei o deploy dele no Render, toda via, é valido dizer que ao acessar é necessário aguardar agluns segundos até renderizar, pois eu não pago a versão PRO:
 https://mesa-facil-gestao-saas-1.onrender.com
 
+![Uploading image.png…]()
+
+
 Sistema completo de gestão para restaurantes desenvolvido com React, TypeScript, Vite e Tailwind CSS.
 
 A ideia deste app é monitorar mesas e cardápios em um restaurante.
