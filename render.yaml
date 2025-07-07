@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: mesa-facil-gestao-saas
+    env: node
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 18
+      - key: NPM_CONFIG_PRODUCTION
+        value: false
